@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wc-2026-fra-bra",
+    "homeTeam": "France",
+    "awayTeam": "Brazil",
+    "competition": "World Cup 2026",
+    "startTime": "2026-06-26T18:00:00.000Z",
+    "status": "Replay",
+    "score": { "home": 1, "away": 1 },
+    "lastUpdateOffset": 84
+  },
+  {
+    "id": "wc-2026-arg-ger",
+    "homeTeam": "Argentina",
+    "awayTeam": "Germany",
+    "competition": "World Cup 2026",
+    "startTime": "2026-06-26T20:00:00.000Z",
+    "status": "Upcoming",
+    "score": null,
+    "lastUpdateOffset": 12
+  },
+  {
+    "id": "wc-2026-usa-jpn",
+    "homeTeam": "United States",
+    "awayTeam": "Japan",
+    "competition": "World Cup 2026",
+    "startTime": "2026-06-26T16:00:00.000Z",
+    "status": "Final",
+    "score": { "home": 2, "away": 0 },
+    "lastUpdateOffset": 260
+  }
+]

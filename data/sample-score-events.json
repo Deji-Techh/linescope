@@ -1,0 +1,42 @@
+[
+  {
+    "id": "score-fra-bra-001",
+    "fixtureId": "wc-2026-fra-bra",
+    "messageId": "tx-score-7f8a21",
+    "offsetSeconds": 18,
+    "action": "KICK_OFF",
+    "team": null,
+    "score": { "home": 0, "away": 0 },
+    "gameState": "In Play"
+  },
+  {
+    "id": "score-fra-bra-002",
+    "fixtureId": "wc-2026-fra-bra",
+    "messageId": "tx-score-91c44e",
+    "offsetSeconds": 54,
+    "action": "GOAL",
+    "team": "France",
+    "score": { "home": 1, "away": 0 },
+    "gameState": "In Play"
+  },
+  {
+    "id": "score-fra-bra-003",
+    "fixtureId": "wc-2026-fra-bra",
+    "messageId": "tx-score-aa1830",
+    "offsetSeconds": 132,
+    "action": "GOAL",
+    "team": "Brazil",
+    "score": { "home": 1, "away": 1 },
+    "gameState": "In Play"
+  },
+  {
+    "id": "score-usa-jpn-001",
+    "fixtureId": "wc-2026-usa-jpn",
+    "messageId": "tx-score-f4d1c0",
+    "offsetSeconds": 28,
+    "action": "FINAL",
+    "team": null,
+    "score": { "home": 2, "away": 0 },
+    "gameState": "Final"
+  }
+]
