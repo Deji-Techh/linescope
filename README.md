@@ -86,3 +86,5 @@ Signals receive a local deterministic hash from selected signal fields. Solana d
 ## Hackathon Feedback
 
 The demo path is: open LineScope, show replay/mock mode, start replay, watch counters advance, inspect generated signals, and open a signal drawer to verify evidence and local hash.
+
+<!-- paired -->
